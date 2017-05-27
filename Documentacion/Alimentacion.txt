@@ -1,0 +1,6 @@
+-VSS2: Power para servos 16-31 4.8-6V
+-VSS1: Servos 1-15  4.8-6V                
+
+*Conectables VSS1=VSS2
+
+-VL= Powe Logic. Normally 9v, pero 6-9v.     *Existe la posibilidad de VS==VL. 
